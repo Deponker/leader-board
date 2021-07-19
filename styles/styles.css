@@ -60,8 +60,8 @@ body{
 }
 
 .right-box img:hover{
-    /* transform: scale(1.2) rotate(15deg);
-    transition: 5s; */
+    transform: scale(1.2) rotate(15deg);
+    transition: 5s;
 }
 
 /* Section-2 */
